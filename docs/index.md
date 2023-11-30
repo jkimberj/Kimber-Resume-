@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Joshua Kimber
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -14,14 +13,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-Whatever you want 
+## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+2021-2024
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
