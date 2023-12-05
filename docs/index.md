@@ -12,10 +12,11 @@ title: Joshua Kimber
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+# Joshua Kimber
+
 ## Education
 Brigham Young University-Idaho `2021-2025`
 •	Major: Mathematical Science – Applied Math
-•	Minor: Data Science
 
 ## Experience
 
