@@ -1,8 +1,7 @@
 ---
 layout: cv
-title: Resume
+title: Joshua Kimber
 ---
-# Joshua Kimber
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -14,65 +13,42 @@ title: Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+Brigham Young University-Idaho `2021-2025`
+•	Major: Mathematical Science – Applied Math
+•	Minor: Data Science
 
-2021-2024
-__Brigham Young University - Idaho__, Rexburg, ID
+## Experience
 
-- 4.0 Major GPA
+__Math Tutor__  
+Brigham Young University-Idaho              `Oct 2022-current`            
+•	Educated students in introductory and upper-level Statistics courses as well as Differential Equations.
+•	Developed strong communication skills and built meaningful relationships with students.
+•	Maintained a 3.9 GPA while tutoring 20hrs a week and being in school full-time.
 
+__Texas A&M Grounds Maintenance Worker__                                                    
+Texas A&M University                        `Sept 2021-Dec 2021`    
+•	Ensured quality landscaping on 5000 acres by mowing, planting, and fertilizing grass.
+•	Recognized as “turf team of the month” for consistently being punctual 7am meetings.
 
-## Related Experience
+__Full-Time Missionary__
+The Church of Jesus Christ of Latter-Day Saints     `Sept 2019-Sept 2021`
+•	Dedicated 10 hours a week to service in the community including: food banks, thrift stores, and local church organizations.
+•	Prepared specific lessons and taught hundreds of people ways to help improve their lives during the pandemic.
 
-### Internships
+## SKILLS AND ABILITIES 
+#### Calculus
+•	Confident in teaching concepts from Calculus I, II, and III.
+•	Scored a 5 on AP exam in high school for Calc I.
+##### Python and R Programming Languages 
+•	Solved a two-dimensional Stewart Platform Kinematics problem using python.
+•	Completed 12 statistical analyses reports detailing different statistical tests and their applications.
+##### Communication 
+•	Spoke at multiple leadership conferences as a missionary.
+•	Interact with students in group settings and one-on-one as a tutor. 
+#### Leadership
+•	Served as a team lead in a partial differential equations group. 
+•	Conducted 1.5-hour weekly training meetings with other missionaries over zoom.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
