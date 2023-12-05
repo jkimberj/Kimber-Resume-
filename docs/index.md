@@ -32,6 +32,7 @@ Texas A&M University                        `Sept 2021-Dec 2021`
 •	Recognized as “turf team of the month” for consistently being punctual 7am meetings.
 
 __Full-Time Missionary__
+
 The Church of Jesus Christ of Latter-Day Saints     `Sept 2019-Sept 2021`
 •	Dedicated 10 hours a week to service in the community including: food banks, thrift stores, and local church organizations.
 •	Prepared specific lessons and taught hundreds of people ways to help improve their lives during the pandemic.
