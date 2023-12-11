@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Joshua Kimber
+title: Joshua Kimburp
 ---
 
 <div id="webaddress">
